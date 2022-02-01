@@ -1,0 +1,11 @@
+﻿Name,Step,Electricity saving  (%),Fuel saving (%),CAPEX ($/TJ),OPEX ($/TJ),Penetration_limit
+Otimização do retorno do condensado,Calor de processo,0,0.05,850,8.5,1
+Manutenção periódica do purgador em caldeiras,Calor de processo,0,0.1,440,4.4,1
+Melhoria no isolamento de tubulações em caldeiras,Calor de processo,0,0.08,1330,13.3,1
+Recuperação do calor a partir de gases de combustão em caldeiras a,Calor de processo,0,0.1,1880,18.8,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ ,,,,,,
