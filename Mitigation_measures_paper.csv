@@ -1,0 +1,8 @@
+﻿Name,Step,Electricity saving  (%),Fuel saving (%),CAPEX (R$/t),OPEX (R$/t),Penetration_limit,Source
+Caldeiras auxiliares com controle avançado de processo,Calor de processo,0,0.028,0.59,0.12,1,Opções
+Caldeiras com recuperação de calor e vapor,Calor de processo,0,0.012,1.18,0.16,1,Opções
+Retorno de condensado,Calor de processo,0,0.138,5.59,0.79,1,Opções
+Manuntenção de caldeiras,Calor de processo,0,0.1,0,0.09,1,Opções
+Modificações nos fornos,Calor de processo,0,0.05,3.68,0,1,Opções
+Secadores CondeBelt,Calor de processo,0,0.15,37.5,0,1,Opções
+Uso de prensas mais eficientes,Calor de processo,0,0.15,55.9,3.3,1,Opções
