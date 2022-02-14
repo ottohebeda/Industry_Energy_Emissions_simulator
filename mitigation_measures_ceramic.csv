@@ -1,0 +1,4 @@
+﻿Name,Step,Electricity saving  (%),Fuel saving (%),CAPEX (R$/t),OPEX (R$/t),Penetration_limit
+Manutencao do forno,Aquecimento direto,0,0.002,120,6,1
+Manutencao do secador,Aquecimento direto,0,0.0004,25,1.25,1
+Reaproveitamento de calor,Aquecimento direto,0,0.0117,30,1.5,1
