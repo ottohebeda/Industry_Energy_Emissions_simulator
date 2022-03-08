@@ -1,0 +1,10 @@
+﻿Mitigation measure,Process,CAPEX (US$/GJ),OPEX (US$/GJ),Energy saving,Penetration,Source
+Adocao de queimadores low nox,All,0.2,,0.02,0.5,
+Monitoramento e manutencao de caldeiras,All,2.3,,0.1,1,
+Recuperacao de calor em caldeiras,All,3.4,,0.013,1,
+Reciclo de condencado,All,9.3,,0.1,0.1,
+Recuperacao de hidrogenio na producao de amonia,Ammonia,22.7,,0.08,0.5,
+Recuperacao de hidrogenio na producao de metanol,Methanol,5.7,,0.04,0.5,
+Integracao de processos com analise pinch,All,26.6,,0.03,0.5,
+Adocao de pre-reformador na producao de amonia,Ammonia,8.5,,0.04,0.5,
+Adocao de pre-reformador na producao de metanol,Methanol,7.5,,0.04,0.5,
