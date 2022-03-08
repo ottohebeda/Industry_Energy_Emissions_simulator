@@ -1,0 +1,28 @@
+﻿Product,Sub-grup,Thermal intensity (GJ/t),Electricity intensity (GJ/t)
+Chlorine,Sodium-Chlorine,3.44,15.78
+Phosphoric acid,Fertiliser,4.8,1.68
+Nitric acid,Fertiliser,0.54,0.01
+Sulfuric acid,Fertiliser,0.607,0.071
+Ammonia,Fertiliser,13.98,1.47
+Ammonium phosphate,Fertiliser,0.546,0.185
+Ammonium nitrate,Fertiliser,0.373,0.133
+Ammonium sulfate,Fertiliser,7.637,1.419
+Urea,Fertiliser,2.294,0.218
+Ethylene,Petrochemistry,28.14,0.502
+Propene,Petrochemistry,28.14,0.502
+Butadiene ,Petrochemistry,13.01,0
+BTX,Petrochemistry,2.73,0.19
+Styrene ,Petrochemistry,8.8,0
+Terephthalic acid,Petrochemistry,2.7,1.44
+Dichloroethane ,Petrochemistry,4.42,0
+Vinyl chloride,Petrochemistry,5.79,0.79
+Formaldehyde,Petrochemistry,4.11,0
+Methanol,OPO,10.01,2.65
+Ethylene oxide,OPO,2.09,0.84
+Ethylene glycol,OPO,2.61,0.88
+SBR,Polymer,8.08,0.86
+Polyethylene ,Polymer,0.38,1.1
+Polypropylene ,Polymer,0.75,0.44
+PVC,Polymer,2.05,0.6
+PET,Polymer,23.07,2.38
+Polystyrene ,Polymer,0.5,0.2
