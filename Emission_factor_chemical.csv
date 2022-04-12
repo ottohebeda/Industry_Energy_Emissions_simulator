@@ -1,6 +1,6 @@
 ﻿Product,Emission factor (tCO2e/t),Notes
 Ammonia,1.46,
-Nitric acid,1.75,
+Nitric acid,1.325,0.005*265
 Adipic acid,0.41075,Value considering GWP 265 for values after 2006.
 Methanol,0.3314,0.267+0.0023*28 (tCO2 + tCH4)/t
 Ethylene,1.831,1.74+0.00325*28 (values after 2009)
