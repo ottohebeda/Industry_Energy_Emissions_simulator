@@ -1,4 +1,4 @@
 Process,Product,Thermal intensity (GJ/t),Electricity intensity (GJ/t),Emission factor (tCO2e/t),CAPEX,OPEX,Penetration,Source
 Bioethylene production,Ethylene,47.1,1.9,0.57,1328,33.2,1,The future of petrochemicalsOPEX (2.5%) and Low carbon energy and feedstock for the European chemical industry
 Ammonia via hydrogen,Ammonia,0,38.9,0.12,800,20,1,The future of petrochemicalsOPEX (2.5%) and Low carbon energy and feedstock for the European chemical industry
-Ammonia via biomass gasification,Ammonia,26.3,5,,4900,122.5,1,The future of petrochemicalsOPEX (2.5%) and Low carbon energy and feedstock for the European chemical industry
+Ammonia via biomass gasification,Ammonia,26.3,5,0.67,4900,122.5,1,The future of petrochemicalsOPEX (2.5%) and Low carbon energy and feedstock for the European chemical industry and Assessing economically viable carbon reductions for the production of ammonia from biomass gasification
