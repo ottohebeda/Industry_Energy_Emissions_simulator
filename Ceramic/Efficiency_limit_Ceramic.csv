@@ -1,0 +1,19 @@
+FONTES,Forca motriz,Calor de processo,Aquecimento direto,Refrigeracao,Iluminacao,Eletroquimica,Outras
+Gas natural,0,0.89,0.91,0,0,0,0
+Carvao mineral,0,0,0.9,0,0,0,0
+Carvao metalurgico,0,0,0,0,0,0,0
+Lenha,0,0,0.9,0,0,0,0
+Bagaco de cana,0,0,0,0,0,0,0
+Outras fontes,0,0.65,0.45,0,0,0,0
+Oleo diesel,0.45,0,0,0,0,0,0
+Oleo combustivel,0,0,0.91,0,0,0,0
+Gasolina,0,0,0,0,0,0,0
+GLP,0.3,0,0,0,0,0,0
+Querosene,0,0,0,0,0,0,0
+Gas,0,0,0,0,0,0,0
+Coque de carvao mineral,0,0,0,0,0,0,0
+Eletricidade,0.97,0,0.88,0.92,0.85,0,0
+Carvao vegetal,0,0,0,0,0,0,0
+Alcool etilico,0,0,0,0,0,0,0
+Outras fontes secundarias,0,0,0.91,0,0,0,0
+Alcatrao,0,0,0,0,0,0,0
