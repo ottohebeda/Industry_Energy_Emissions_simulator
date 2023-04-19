@@ -1,0 +1,5 @@
+﻿Name,Step,Electricity saving  (%),Fuel saving (%),CAPEX (R$/t),OPEX (R$/t),Penetration_limit
+Melhorias na combustão e processo,Aquecimento direto,0,0.025,78200,3910,1
+Melhoria no forno,Aquecimento direto,0,0.118,400000,20000,0.6
+Recuperação de calor,Aquecimento direto,0,0.0855,200000,10000,0.9
+Redução da perda de calor,Aquecimento direto,0,0.05,167472,8374,1
