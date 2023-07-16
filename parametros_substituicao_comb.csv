@@ -10,7 +10,7 @@ Iron and steel,Oleo combustivel,4,6,0.1,0.53
 Iron and steel,Derived gases,3,9,0.1,0.53
 Iron and steel,Stack gas,3,6.8,0.1,0.53
 Iron and steel,Waste non-RES,1,0,0.1,0.53
-Iron and steel,Biomassa,8,0,0.1,0.53
+Iron and steel,Carvao vegetal,8,0,0.1,0.53
 Iron and steel,Biogas,6,0,0.1,0.53
 Iron and steel,Residuo,1,0,0.1,0.53
 Iron and steel,Geothermal,2.73,0,0.1,0.53
@@ -26,7 +26,7 @@ Non-ferrous metals,Oleo combustivel,4.9,7.22,0.1,0.77
 Non-ferrous metals,Derived gases,1,5.88,0.1,0.77
 Non-ferrous metals,Stack gas,1,0,0.1,0.77
 Non-ferrous metals,Waste non-RES,1,0,0.1,0.77
-Non-ferrous metals,Biomassa,8,0,0.1,0.77
+Non-ferrous metals,Carvao vegetal,8,0,0.1,0.77
 Non-ferrous metals,Biogas,1,0,0.1,0.77
 Non-ferrous metals,Residuo,1,0,0.1,0.77
 Non-ferrous metals,Geothermal,1.24,0,0.1,0.77
@@ -42,7 +42,7 @@ Paper and printing,Oleo combustivel,4.78,6.25,0.1,0.6
 Paper and printing,Derived gases,1,3.82,0.1,0.6
 Paper and printing,Stack gas,1,0,0.1,0.6
 Paper and printing,Waste non-RES,1,0.46,0.1,0.6
-Paper and printing,Biomassa,1.47,10,0.1,0.6
+Paper and printing,Carvao vegetal,1.47,10,0.1,0.6
 Paper and printing,Biogas,1,0,0.1,0.6
 Paper and printing,Residuo,1,0,0.1,0.6
 Paper and printing,Geothermal,3.78,0,0.1,0.6
@@ -58,7 +58,7 @@ Non-metallic mineral products,Oleo combustivel,4.5,2.14,0.1,1.04
 Non-metallic mineral products,Derived gases,2.7,2.52,0.1,1.04
 Non-metallic mineral products,Stack gas,1,0,0.1,1.04
 Non-metallic mineral products,Waste non-RES,3.96,0,0.1,1.04
-Non-metallic mineral products,Biomassa,8,0,0.1,1.04
+Non-metallic mineral products,Carvao vegetal,8,0,0.1,1.04
 Non-metallic mineral products,Biogas,1,0,0.1,1.04
 Non-metallic mineral products,Residuo,1,0,0.1,1.04
 Non-metallic mineral products,Geothermal,1.04,0,0.1,1.04
@@ -74,7 +74,7 @@ Chemical industry,Oleo combustivel,4.56,6.38,0.1,0.56
 Chemical industry,Derived gases,7.43,8.1,0.1,0.56
 Chemical industry,Stack gas,1,0,0.1,0.56
 Chemical industry,Waste non-RES,4.51,0.01,0.1,0.56
-Chemical industry,Biomassa,8,0,0.1,0.56
+Chemical industry,Carvao vegetal,8,0,0.1,0.56
 Chemical industry,Biogas,8,0,0.1,0.56
 Chemical industry,Residuo,1,0,0.1,0.56
 Chemical industry,Geothermal,2.67,0,0.1,0.56
@@ -90,7 +90,7 @@ Chemical industry,Biofuels liquid,2.71,0,0.1,0.56
 "Food, drink and tobacco",Derived gases,1.59,5.94,0.1,0.77
 "Food, drink and tobacco",Stack gas,1,0,0.1,0.77
 "Food, drink and tobacco",Waste non-RES,1,0,0.1,0.77
-"Food, drink and tobacco",Biomassa,5,4,0.1,0.77
+"Food, drink and tobacco",Carvao vegetal,5,4,0.1,0.77
 "Food, drink and tobacco",Biogas,1,2.49,0.1,0.77
 "Food, drink and tobacco",Residuo,1,0,0.1,0.77
 "Food, drink and tobacco",Geothermal,1,0,0.1,0.77
@@ -106,7 +106,7 @@ Engineering and other metal,Oleo combustivel,4.19,6.39,0.1,1.05
 Engineering and other metal,Derived gases,1,7.51,0.1,1.05
 Engineering and other metal,Stack gas,1,0,0.1,1.05
 Engineering and other metal,Waste non-RES,1,0,0.1,1.05
-Engineering and other metal,Biomassa,7,2,0.1,1.05
+Engineering and other metal,Carvao vegetal,7,2,0.1,1.05
 Engineering and other metal,Biogas,1,0,0.1,1.05
 Engineering and other metal,Residuo,1,0,0.1,1.05
 Engineering and other metal,Geothermal,1,0,0.1,1.05
@@ -122,7 +122,7 @@ Other non-classified,Oleo combustivel,5.01,5.49,0.1,0.72
 Other non-classified,Derived gases,3.45,5.84,0.1,0.72
 Other non-classified,Stack gas,1,0,0.1,0.72
 Other non-classified,Waste non-RES,1.85,0.86,0.1,0.72
-Other non-classified,Biomassa,1,6.58,0.1,0.72
+Other non-classified,Carvao vegetal,1,6.58,0.1,0.72
 Other non-classified,Biogas,1,0,0.1,0.72
 Other non-classified,Residuo,1,0,0.1,0.72
 Other non-classified,Geothermal,1,0,0.1,0.72
