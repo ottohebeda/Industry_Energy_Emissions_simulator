@@ -1,0 +1,129 @@
+﻿Sector,Energy carrier,Alpha,Gamma,Delta,Epsilon
+Iron and steel,Eletricidade,1,8.42,0.1,0.56
+Iron and steel,Light fuel oil,1,3.24,0.1,0.53
+Iron and steel,Carvao mineral,5.39,6.37,0.1,0.53
+Iron and steel,Coke,4,8.85,0.1,0.53
+Iron and steel,Lignite,1,0,0.1,0.53
+Iron and steel,Gas natural,3.26,9.66,0.1,0.53
+Iron and steel,Coque de petroleo,1.48,0,0.1,0.53
+Iron and steel,Oleo combustivel,4,6,0.1,0.53
+Iron and steel,Derived gases,3,9,0.1,0.53
+Iron and steel,Stack gas,3,6.8,0.1,0.53
+Iron and steel,Waste non-RES,1,0,0.1,0.53
+Iron and steel,Biomassa,8,0,0.1,0.53
+Iron and steel,Biogas,6,0,0.1,0.53
+Iron and steel,Residuo,1,0,0.1,0.53
+Iron and steel,Geothermal,2.73,0,0.1,0.53
+Iron and steel,Biofuels liquid,2.67,0,0.1,0.53
+Non-ferrous metals,Eletricidade,1,6.45,0.1,0.77
+Non-ferrous metals,Light fuel oil,10,7.87,0.1,0.77
+Non-ferrous metals,Carvao mineral,1,5.93,0.1,0.77
+Non-ferrous metals,Coke,1,4.62,0.1,0.77
+Non-ferrous metals,Lignite,4.59,2.22,0.1,0.77
+Non-ferrous metals,Gas natural,6.63,10,0.1,0.77
+Non-ferrous metals,Coque de petroleo,1.32,0,0.1,0.77
+Non-ferrous metals,Oleo combustivel,4.9,7.22,0.1,0.77
+Non-ferrous metals,Derived gases,1,5.88,0.1,0.77
+Non-ferrous metals,Stack gas,1,0,0.1,0.77
+Non-ferrous metals,Waste non-RES,1,0,0.1,0.77
+Non-ferrous metals,Biomassa,8,0,0.1,0.77
+Non-ferrous metals,Biogas,1,0,0.1,0.77
+Non-ferrous metals,Residuo,1,0,0.1,0.77
+Non-ferrous metals,Geothermal,1.24,0,0.1,0.77
+Non-ferrous metals,Biofuels liquid,1.68,0,0.1,0.77
+Paper and printing,Eletricidade,1,7,0.1,0.6
+Paper and printing,Light fuel oil,3.77,3.85,0.1,0.6
+Paper and printing,Carvao mineral,1,3.87,0.1,0.6
+Paper and printing,Coke,1,0,0.1,0.6
+Paper and printing,Lignite,6.53,0.02,0.1,0.6
+Paper and printing,Gas natural,1,8.37,0.1,0.6
+Paper and printing,Coque de petroleo,1,0,0.1,0.6
+Paper and printing,Oleo combustivel,4.78,6.25,0.1,0.6
+Paper and printing,Derived gases,1,3.82,0.1,0.6
+Paper and printing,Stack gas,1,0,0.1,0.6
+Paper and printing,Waste non-RES,1,0.46,0.1,0.6
+Paper and printing,Biomassa,1.47,10,0.1,0.6
+Paper and printing,Biogas,1,0,0.1,0.6
+Paper and printing,Residuo,1,0,0.1,0.6
+Paper and printing,Geothermal,3.78,0,0.1,0.6
+Paper and printing,Biofuels liquid,5.09,0,0.1,0.6
+Non-metallic mineral products,Eletricidade,1,1,0.1,1.04
+Non-metallic mineral products,Light fuel oil,1,2.73,0.1,1.04
+Non-metallic mineral products,Carvao mineral,1,3.57,0.1,1.04
+Non-metallic mineral products,Coke,1,1.39,0.1,1.04
+Non-metallic mineral products,Lignite,1,1.15,0.1,1.04
+Non-metallic mineral products,Gas natural,4,5.65,0.1,1.04
+Non-metallic mineral products,Coque de petroleo,2.41,2.73,0.1,1.04
+Non-metallic mineral products,Oleo combustivel,4.5,2.14,0.1,1.04
+Non-metallic mineral products,Derived gases,2.7,2.52,0.1,1.04
+Non-metallic mineral products,Stack gas,1,0,0.1,1.04
+Non-metallic mineral products,Waste non-RES,3.96,0,0.1,1.04
+Non-metallic mineral products,Biomassa,8,0,0.1,1.04
+Non-metallic mineral products,Biogas,1,0,0.1,1.04
+Non-metallic mineral products,Residuo,1,0,0.1,1.04
+Non-metallic mineral products,Geothermal,1.04,0,0.1,1.04
+Non-metallic mineral products,Biofuels liquid,1.04,0,0.1,1.04
+Chemical industry,Eletricidade,1,6,0.1,0.56
+Chemical industry,Light fuel oil,1,7.07,0.1,0.56
+Chemical industry,Carvao mineral,1.76,4.31,0.1,0.56
+Chemical industry,Coke,1,1.71,0.1,0.56
+Chemical industry,Lignite,6.02,1.42,0.1,0.56
+Chemical industry,Gas natural,1,10,0.1,0.56
+Chemical industry,Coque de petroleo,3.35,1.04,0.1,0.56
+Chemical industry,Oleo combustivel,4.56,6.38,0.1,0.56
+Chemical industry,Derived gases,7.43,8.1,0.1,0.56
+Chemical industry,Stack gas,1,0,0.1,0.56
+Chemical industry,Waste non-RES,4.51,0.01,0.1,0.56
+Chemical industry,Biomassa,8,0,0.1,0.56
+Chemical industry,Biogas,8,0,0.1,0.56
+Chemical industry,Residuo,1,0,0.1,0.56
+Chemical industry,Geothermal,2.67,0,0.1,0.56
+Chemical industry,Biofuels liquid,2.71,0,0.1,0.56
+"Food, drink and tobacco",Eletricidade,1,7,0.1,0.77
+"Food, drink and tobacco",Light fuel oil,1,7.71,0.1,0.77
+"Food, drink and tobacco",Carvao mineral,1,5.62,0.1,0.77
+"Food, drink and tobacco",Coke,1,4.12,0.1,0.77
+"Food, drink and tobacco",Lignite,8.63,0,0.1,0.77
+"Food, drink and tobacco",Gas natural,2.5,10,0.1,0.77
+"Food, drink and tobacco",Coque de petroleo,1,0,0.1,0.77
+"Food, drink and tobacco",Oleo combustivel,3.84,7.2,0.1,0.77
+"Food, drink and tobacco",Derived gases,1.59,5.94,0.1,0.77
+"Food, drink and tobacco",Stack gas,1,0,0.1,0.77
+"Food, drink and tobacco",Waste non-RES,1,0,0.1,0.77
+"Food, drink and tobacco",Biomassa,5,4,0.1,0.77
+"Food, drink and tobacco",Biogas,1,2.49,0.1,0.77
+"Food, drink and tobacco",Residuo,1,0,0.1,0.77
+"Food, drink and tobacco",Geothermal,1,0,0.1,0.77
+"Food, drink and tobacco",Biofuels liquid,1,0,0.1,0.77
+Engineering and other metal,Eletricidade,1,8,0.1,1.05
+Engineering and other metal,Light fuel oil,1,8.42,0.1,1.05
+Engineering and other metal,Carvao mineral,1,5.4,0.1,1.05
+Engineering and other metal,Coke,6.46,2.96,0.1,1.05
+Engineering and other metal,Lignite,8.33,0,0.1,1.05
+Engineering and other metal,Gas natural,1.88,10,0.1,1.05
+Engineering and other metal,Coque de petroleo,1,0,0.1,1.05
+Engineering and other metal,Oleo combustivel,4.19,6.39,0.1,1.05
+Engineering and other metal,Derived gases,1,7.51,0.1,1.05
+Engineering and other metal,Stack gas,1,0,0.1,1.05
+Engineering and other metal,Waste non-RES,1,0,0.1,1.05
+Engineering and other metal,Biomassa,7,2,0.1,1.05
+Engineering and other metal,Biogas,1,0,0.1,1.05
+Engineering and other metal,Residuo,1,0,0.1,1.05
+Engineering and other metal,Geothermal,1,0,0.1,1.05
+Engineering and other metal,Biofuels liquid,1,0,0.1,1.05
+Other non-classified,Eletricidade,1,6,0.1,0.72
+Other non-classified,Light fuel oil,1,7.78,0.1,0.72
+Other non-classified,Carvao mineral,1,7.43,0.1,0.72
+Other non-classified,Coke,1,2.44,0.1,0.72
+Other non-classified,Lignite,1,5.76,0.1,0.72
+Other non-classified,Gas natural,10,9.65,0.1,0.72
+Other non-classified,Coque de petroleo,1,2.2,0.1,0.72
+Other non-classified,Oleo combustivel,5.01,5.49,0.1,0.72
+Other non-classified,Derived gases,3.45,5.84,0.1,0.72
+Other non-classified,Stack gas,1,0,0.1,0.72
+Other non-classified,Waste non-RES,1.85,0.86,0.1,0.72
+Other non-classified,Biomassa,1,6.58,0.1,0.72
+Other non-classified,Biogas,1,0,0.1,0.72
+Other non-classified,Residuo,1,0,0.1,0.72
+Other non-classified,Geothermal,1,0,0.1,0.72
+Other non-classified,Biofuels liquid,1,0,0.1,0.72
