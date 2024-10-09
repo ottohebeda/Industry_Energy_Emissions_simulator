@@ -1,6 +1,6 @@
 ﻿Medida,Energy saving (%),CAPEX (U$/t),OPEX (U$/t),Penetration,Source
-Implementação de melhores técnicas de produção disponíveis,0.05,70,5,1,Opcoes+ajuste
-Sistema de monitoramento,0.01,5,0.1,1,Opcoes+ajuste
+Implementação de melhores técnicas de produção disponíveis,0.05,70,5,.5,Opcoes+ajuste
+Sistema de monitoramento,0.01,5,0.1,.25,Opcoes+ajuste
 Controle avançado,0.1,12,15,0.5,Opcoes+ajuste
 Sistema de utilidade eficientes,0.1,160,8,0.3,Opcoes+ajuste
 Trocadores de calor eficientes,0.1,70,4,0.2,Opcoes+ajuste
