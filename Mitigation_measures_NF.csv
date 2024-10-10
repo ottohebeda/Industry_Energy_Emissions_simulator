@@ -1,6 +1,6 @@
 ﻿Measure,Energy saving (%),CAPEX (U$/t),OPEX (U$/t),Penetration,Life time,Source
 Uso de material isolante em fornos,0.035,1,0.5,.25,30,"Opções, Kermeli+ajuste"
-Recuperação de calor,0.1,20,1,0.5,30,"Opções, Kermeli+ajuste"
-Otimização do fluxo de ar de combustão,0.08,6,0.3,0.25,30,"Opções, Kermeli+ajuste"
-Controle de pressao e vazamento em fornos,0.075,3,0.4,.25,20,"Opções, Kermeli+ajuste"
+Recuperação de calor,0.05,20,1,0.5,30,"Opções, Kermeli+ajuste"
+Otimização do fluxo de ar de combustão,0.04,6,0.3,0.25,30,"Opções, Kermeli+ajuste"
+Controle de pressao e vazamento em fornos,0.04,3,0.4,.25,20,"Opções, Kermeli+ajuste"
 Troca de smelter Soderberg por Prebake,0.15,5000,520,0.4,20,"Opções, Kermeli/Limite de 0.49GJ/t de al"
