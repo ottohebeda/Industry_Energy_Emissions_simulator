@@ -1,12 +1,12 @@
 FONTES,Forca motriz,Calor de processo,Aquecimento direto,Refrigeracao,Iluminacao,Eletroquimica,Outras
-Gas natural,0.35,0.9,0.55,0.77,,,
-Carvao mineral,,0.82,,,,,
+Gas natural,0.33,0.85,0.52,0.71,,,
+Carvao mineral,,0.77,,,,,
 Carvao metalurgico,,,,,,,
-Lenha,,0.82,0.35,,,,
-Oleo diesel,0.45,0.9,0.55,0.77,,,
-Oleo combustivel,,0.9,0.55,0.77,,,
-GLP,0.29,0.9,0.55,0.77,0.002,,
+Lenha,,0.77,0.32,,,,
+Oleo diesel,0.45,0.85,0.52,0.71,,,
+Oleo combustivel,,0.85,0.52,0.71,,,
+GLP,0.29,0.85,0.52,0.71,0.002,,
 Coque de carvao mineral,,,,,,,
-Eletricidade,0.94,0.98,0.55,0.8,0.28,,1
-Carvao vegetal,,0.82,0.35,,,,
+Eletricidade,0.94,0.97,0.52,0.75,0.28,,1
+Carvao vegetal,,0.77,0.32,,,,
 Outras fontes secundarias,,,,,,,
