@@ -3,3 +3,9 @@ Recuperação de calor,Aquecimento direto,0,0.05,0.7875,0.039375,1
 Melhoria na combustão,Aquecimento direto,0,0.056,0.2898,0.01449,1
 Melhoria no isolamento,Aquecimento direto,0,0.05,0.14805,0.0074025,1
 Retorno de condensado,Aquecimento direto,0,0.038,0.034398,0.0017199,1
+Recuperação de calor,Calor de processo,0,0.05,0.7875,0.039375,1
+Melhoria na combustão,Calor de processo,0,0.056,0.2898,0.01449,1
+Melhoria no isolamento,Calor de processo,0,0.05,0.14805,0.0074025,1
+Retorno de condensado,Calor de processo,0,0.038,0.034398,0.0017199,1
+Melhoria no processo,Forca motriz,0,0.056,0.2898,0.01449,1
+
