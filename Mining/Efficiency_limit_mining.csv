@@ -6,5 +6,6 @@ Oleo diesel,0.45,0.8,0.6,0,0,0,0
 Oleo combustivel,0.45,0.8,0.6,0,0,0,0
 GLP,0.29,0.8,0.6,0,0.002,0,0
 Querosene,0.3,0.8,0.6,0,0.002,0,0
-Eletricidade,0.94,0.96,0.98,0.7,0.29,0.59,1
+Eletricidade,1,1,1,0.7,0.29,0.59,1
 Outras fontes secundarias,0.45,0.8,0.6,0,0,0,0
+
